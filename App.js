@@ -206,7 +206,7 @@ export default () => {
               width: IMAGE_WIDTH + SPACING * 2,
               position: "absolute",
               backgroundColor: "#E69A8DFF",
-              backfaceVisibility: true,
+              backfaceVisibility: "visible",
               zIndex: -1, 
               top: SPACING * 2,
               left: SPACING,
